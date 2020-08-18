@@ -1,6 +1,6 @@
 ## Greetings
 
-### 👋 I'm Hunter and I'm a 3rd college student studying web and app development
+### 👋 I'm Hunter and I'm a 3rd year college student studying web and app development
 
 ---
 
