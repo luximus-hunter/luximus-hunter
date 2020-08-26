@@ -1,6 +1,8 @@
 ## Greetings
 
-### 👋 I'm Hunter and I'm a 3rd year college student studying web and app development
+### 👋 I'm Hunter
+
+I'm a 3rd year college student studying web and app development. I also go around as SiDev
 
 ---
 
