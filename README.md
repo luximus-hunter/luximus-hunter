@@ -1,36 +1,47 @@
-## Greetings
+# LuximusHunter
 
-### 👋 I'm Hunter
+## 👋 Greetings
 
-I'm a 3rd year college student studying web and app development. I also go around as SiDev
+I'm Luximus Hunter. I'm an 18 year old student in software development at my local college and I am doing exams. I like to specialize in web development, mostly React written in Typescript. For the rest i like to listent to alternative rock and go out for some fresh air.
 
 ---
 
-### 🎯 Activities
+## 🎯 Activities
 
-- 📚 Learning web development
-- 🧪 Always wanting to learn more
-- 📄 Dyslectic
+- 💻 Learning web development
+- 🧪 Learning new things
+- 🎸 Listening to music
 - 📺 Watching series
-- 🎮 Playing [Hollowknight](https://hollowknight.com/)
 
 ---
 
-### 📕 Skills:
+## ✨ Skills
 
-![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
-![markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
-![reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+### Languages
 
----
+- Dutch
+- English
 
-### ⚡ Recent Activity
+### Programming Languages
 
-- Yet to come
+- HTML
+- CSS
+- SCSS
+- Javascript
+- Typescript
+- SQLite
+
+### Frameworks
+
+- NodeJS
+- NPM
+- ReactJS
+- React Hooks
+- Bootstrap
+- React-Bootstrap
+
+### Utilities
+
+- Axios
+- Prettier
+- Commitizen
