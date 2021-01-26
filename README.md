@@ -1,8 +1,8 @@
-# LuximusHunter
+# Profile
 
 ## 👋 Greetings
 
-I'm Luximus Hunter. I'm an 18 year old student in software development at my local college and I am doing exams. I like to specialize in web development, mostly React written in Typescript. For the rest i like to listent to alternative rock and go out for some fresh air.
+I'm Thomas Lipman. I'm an 18 year old student in software development at my local college. I like to specialize in web development, mostly React written in Typescript. For the rest i like to listent to alternative rock and go out for some fresh air.
 
 ---
 
@@ -45,3 +45,4 @@ I'm Luximus Hunter. I'm an 18 year old student in software development at my loc
 - Axios
 - Prettier
 - Commitizen
+- Prisma ORM
