@@ -19,30 +19,20 @@ I'm Thomas Lipman. I'm an 18 year old student in software development at my loca
 
 ### Languages
 
-- Dutch
-- English
+English | Dutch
+--------|------
 
 ### Programming Languages
 
-- HTML
-- CSS
-- SCSS
-- Javascript
-- Typescript
-- SQLite
+HTML | CSS | SCSS | Javascript | Typescript | SQL | SQLite | C# .NET
+-----|-----|------|------------|------------|-----|--------|--------
 
 ### Frameworks
 
-- NodeJS
-- NPM
-- ReactJS
-- React Hooks
-- Bootstrap
-- React-Bootstrap
+NodeJS | NPM | NextJS | ReactJS | React Hooks | Bootstrap | React-Bootstrap
+-------|-----|--------|---------|-------------|-----------|---------------
 
 ### Utilities
 
-- Axios
-- Prettier
-- Commitizen
-- Prisma ORM
+Axios | Prettier | Commitizen | Prisma ORM | Postman
+------|----------|------------|------------|--------
