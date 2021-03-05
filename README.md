@@ -1,5 +1,7 @@
 # Profile
 
+Check out [my website](https://luximus-hunter.github.io/about-me/)!
+
 ## 👋 Greetings
 
 I'm Thomas Lipman. I'm an 18 year old student in software development at my local college. I like to specialize in web development, mostly React written in Typescript. For the rest i like to listent to alternative rock and go out for some fresh air.
