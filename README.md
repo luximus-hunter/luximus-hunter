@@ -1,6 +1,6 @@
 # Profile
 
-Check out [my website](https://luximus-hunter.github.io/about-me/)!
+WIP: Check out [my website](https://thomaslipman.vercel.app)!
 
 ## 👋 Greetings
 
@@ -38,5 +38,3 @@ NodeJS | NPM | NextJS | ReactJS | React Hooks | Bootstrap | React-Bootstrap
 
 Axios | Prettier | Commitizen | Prisma ORM | Postman
 ------|----------|------------|------------|--------
-
-<iframe src="https://google.com" width="100%" height="100%"></iframe>
