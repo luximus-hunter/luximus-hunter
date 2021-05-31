@@ -1,4 +1,6 @@
-# Profile
+[![card](https://cardivo.vercel.app/api?name=LuximusHunter&description=https://thomaslipman.vercel.app&image=https://avatars.githubusercontent.com/u/49814847?v=4)](https://thomaslipman.vercel.app)
+
+<!-- # Profile
 
 WIP: Check out [my website](https://thomaslipman.vercel.app)!
 
@@ -38,3 +40,4 @@ NodeJS | NPM | NextJS | ReactJS | React Hooks | Bootstrap | React-Bootstrap
 
 Axios | Prettier | Commitizen | Prisma ORM | Postman
 ------|----------|------------|------------|--------
+ -->
