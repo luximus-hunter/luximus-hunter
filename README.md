@@ -1,5 +1,9 @@
 [![card](https://cardivo.vercel.app/api?name=Thomas%20Lipman&description=https://thomaslipman.vercel.app&backgroundColor=%23ffffff&image=https://avatars.githubusercontent.com/u/49814847?v=4&linkedin=linkedin.com/in/thomas-lipman&github=luximus-hunter%20||%20lxms-development)](https://thomaslipman.vercel.app)
 
+---
+
+![open-source](https://img.shields.io/badge/open%20source-❤-FF0000)
+
 <!-- # Profile
 
 WIP: Check out [my website](https://thomaslipman.vercel.app)!
