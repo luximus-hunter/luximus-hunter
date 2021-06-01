@@ -1,4 +1,4 @@
-[![card](https://cardivo.vercel.app/api?name=LuximusHunter&description=https://thomaslipman.vercel.app&image=https://avatars.githubusercontent.com/u/49814847?v=4)](https://thomaslipman.vercel.app)
+[![card](https://cardivo.vercel.app/api?name=LuximusHunter&description=https://thomaslipman.vercel.app&backgroundColor=%ffffff&image=https://avatars.githubusercontent.com/u/49814847?v=4)](https://thomaslipman.vercel.app)
 
 <!-- # Profile
 
