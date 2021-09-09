@@ -1,4 +1,4 @@
-[![card](https://cardivo.vercel.app/api?name=LuximusHunter&description=Junior%20UI/UX%20Designer&backgroundColor=%23ffffff&image=https://avatars.githubusercontent.com/u/49814847?v=4&github=luximus-hunter%20||%20lxms-development)](https://lxms.nl)
+[![card](https://cardivo.vercel.app/api?name=Luximus&description=Junior%20UI/UX%20Designer&backgroundColor=%23ffffff&image=https://avatars.githubusercontent.com/u/49814847?v=4&github=luximus-hunter%20||%20lxms-development)](https://lxms.nl)
 
 ---
 
