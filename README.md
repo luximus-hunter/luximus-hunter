@@ -1,6 +1,6 @@
 # About me
 
-Hiya!, I'm Thomas Lipman, but I often go by the name Luximus. Nice to meet ya!
+Hiya!, I'm Lux. Nice to meet ya!
 
 Currently I'm a college student at Windesheim University of Applied Sciences. There I study HBO-ICT. I've also completed a study for Software Development at Deltion College just before my current study.
 
