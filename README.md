@@ -1,15 +1,14 @@
-# About me
+# Hiya!
+## I'm Luximus
+Student dev and voulenteer
 
-Hiya!, I'm Lux. Nice to meet ya!
+## What I Know
 
-Currently I'm a college student at Windesheim University of Applied Sciences. There I study HBO-ICT. I've also completed a study for Software Development at Deltion College just before my current study.
+[![skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,next,solidjs,svelte,prisma,nodejs,npm,pnpm,cs,unity,dotnet,mysql,sqlite,java,docker,git,github&perline=5)](https://skillicons.dev)
 
-I've put my specialty in frontend development, focusing on ReactJS, together with TypeScript and Sass. For the rest I also work with C# and I'm in the process of learning Python and Java.
+## Socials
 
-For the rest I'm trying to be as social as I can! Hanging out with people always cheers me up. Music and reading are also things I love.
-
-And coffee, of course! ☕
-
+[![skills](https://skillicons.dev/icons?i=github,linkedin,discord&perline=5)](https://skillicons.dev)
 
 ## Open-Source Badge
 
